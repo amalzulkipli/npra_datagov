@@ -16,4 +16,8 @@ Classifying medication into its class group
 2. Check if the product name or active ingredients is in the MIMS Malaysia by scraping the MIMS Malaysia website
 - If product name available, then classify the medication into its class group
 - If it is not, use active ingredients, then classify the medication into its class group
+- Need to use ollama/ Ai, Im too dumb to scrape this html
+
+
+
 3. Save data into csv file
